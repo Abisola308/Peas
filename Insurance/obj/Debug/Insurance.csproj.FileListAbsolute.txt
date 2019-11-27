@@ -1,0 +1,16 @@
+C:\Test Automation\Insurance\Insurance\bin\Debug\Insurance.dll.config
+C:\Test Automation\Insurance\Insurance\bin\Debug\Insurance.dll
+C:\Test Automation\Insurance\Insurance\bin\Debug\Insurance.pdb
+C:\Test Automation\Insurance\Insurance\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Test Automation\Insurance\Insurance\bin\Debug\Newtonsoft.Json.dll
+C:\Test Automation\Insurance\Insurance\bin\Debug\System.ValueTuple.dll
+C:\Test Automation\Insurance\Insurance\bin\Debug\TechTalk.SpecFlow.dll
+C:\Test Automation\Insurance\Insurance\bin\Debug\WebDriver.dll
+C:\Test Automation\Insurance\Insurance\bin\Debug\WebDriver.Support.dll
+C:\Test Automation\Insurance\Insurance\bin\Debug\Newtonsoft.Json.xml
+C:\Test Automation\Insurance\Insurance\bin\Debug\WebDriver.xml
+C:\Test Automation\Insurance\Insurance\bin\Debug\WebDriver.Support.xml
+C:\Test Automation\Insurance\Insurance\obj\Debug\Insurance.dll
+C:\Test Automation\Insurance\Insurance\obj\Debug\Insurance.pdb
+C:\Test Automation\Insurance\Insurance\obj\Debug\Insurance.csprojAssemblyReference.cache
+C:\Test Automation\Insurance\Insurance\obj\Debug\Insurance.csproj.CopyComplete
